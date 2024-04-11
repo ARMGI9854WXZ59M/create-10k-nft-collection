@@ -38,7 +38,7 @@
     "canvas": "^2.8.0",
     "form-data": "^4.0.0",
     "gif-encoder-2": "^1.0.5",
-    "node-fetch": "^2.6.6",
+    "node-fetch": "^2.6.8",
     "puppeteer": "^13.4.1",
     "puppeteer-extra": "^3.2.3",
     "puppeteer-extra-plugin-adblocker": "^2.12.0",
